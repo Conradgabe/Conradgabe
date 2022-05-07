@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Conradgabe
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python and Django framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hey there, I’m Conradgabe
 
 <!---
 Conradgabe/Conradgabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
