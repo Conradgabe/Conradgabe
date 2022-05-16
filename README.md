@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Conradgabe
+- 👋 Hey there, I’m Gabriel
 
 <!---
 Conradgabe/Conradgabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
