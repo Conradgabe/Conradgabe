@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 
 <h1 align="center">Hi 👋, I'm Gabriel Isuekebho</h1>
-<h3 align="center">A tech enthusiast and a motivated Backend Developer, open source contributor. Aspiring blockchain developer</h3>
+<h3 align="center">A tech enthusiast and a motivated Backend Developer with an interest in fixing real world problems with technology and dependable leadership,and an open source contributor </h3>
 <img align="right" alt="Coding" width="50%" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conradgabe&label=Profile%20views&color=0e75b6&style=flat" alt="conradgabe" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Track Band**
 
-- 🌱 I’m currently learning **cloud computing**
+- 🌱 I’m currently learning **cloud computing amd blockchain development**
 
 - 👯 I’m looking to collaborate on **python and django**
 
