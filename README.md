@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gisuekebho5880@gmail.com**
 
-- ⚡ Fun fact **I'm a Musician**
+- ⚡ Fun fact **I love playing the Piano and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
