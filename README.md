@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/conrad_gabb" target="blank"><img src="https://img.shields.io/twitter/follow/conrad_gabb?logo=twitter&style=for-the-badge" alt="conrad_gabb" /></a> </p>
 
-- 🔭 I’m currently working on **Track Band**
+- 🔭 I’m currently working on **Renager**
 
-- 🌱 I’m currently learning **cloud computing amd blockchain development**
+- 🌱 I’m currently learning **cloud computing**
 
 - 👯 I’m looking to collaborate on **python and django**
 
