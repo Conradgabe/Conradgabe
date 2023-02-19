@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/conrad_gabb" target="blank"><img src="https://img.shields.io/twitter/follow/conrad_gabb?logo=twitter&style=for-the-badge" alt="conrad_gabb" /></a> </p>
 
-- 🔭 I’m currently working on **Renager**
+- 🔭 I’m currently working on **UnSplash**
 
-- 🌱 I’m currently learning **cloud computing**
+- 🌱 I’m currently learning **Devops and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **python and django**
+- 👯 I’m looking to collaborate on **Python, Django, FastAPI, JavaScript**
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **gisuekebho5880@gmail.com**
 
-- ⚡ Fun fact **I love playing the Piano and music**
+- ⚡ Fun fact **I love listen to music and Play the Piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
