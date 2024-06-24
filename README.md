@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+![ConradGabe](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 
 <h1 align="center">Hi 👋, I'm Gabriel Isuekebho</h1>
 <h3 align="center">A tech enthusiast and a motivated Software Engineer with an interest in fixing real world problems with technology and dependable leadership skills,and an open source contributor </h3>
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **UnSplash**
 
-- 🌱 I’m currently learning **Devops and Cloud Computing**
+- 🌱 I’m currently learning on **Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Python, Django, FastAPI, JavaScript**
+- 👯 I’m looking to collaborate on any **Python** project
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Programming and security**
 
 - 📫 How to reach me **gisuekebho5880@gmail.com**
 
