@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Gabriel Isuekebho</h1>
-<h3 align="center">A tech enthusiast and a motivated Software Engineer with an interest in fixing real world problems with technology and dependable leadership skills,and an open source contributor </h3>
+<h3 align="center">A tech enthusiast and a motivated Software Engineer with interest in fixing real-world problems with technology and dependable leadership skills, and an open source contributor </h3>
 <img align="right" alt="Coding" width="50%" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conradgabe&label=Profile%20views&color=0e75b6&style=flat" alt="conradgabe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/conrad_gabb" target="blank"><img src="https://img.shields.io/twitter/follow/conrad_gabb?logo=twitter&style=for-the-badge" alt="conrad_gabb" /></a> </p>
 
-- 🔭 I’m currently working with **python, django, fastapi, javascript, react**
+- 🔭 I’m currently working with **python, Django, fast API, C#, and ASP.NET**
 
-- 🌱 I’m currently looking into **Cybersecurity**
+- 🌱 I’m currently looking into **Cybersecurity and Backend Technologies**
 
-- 👯 I’m looking to collaborate on any **Python** project
+- 👯 I’m looking to collaborate on any **Backend** project
 
 - 💬 Ask me about **Programming and security**
 
 - 📫 How to reach me **gisuekebho5880@gmail.com**
 
-- ⚡ Fun fact **I love listen to music and Play the Piano**
+- ⚡ Fun fact **I love listening to music and Playing the Piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
