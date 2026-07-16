@@ -18,10 +18,10 @@
 
 ## 🟠 Bitcoin
 
-- **Programming Bitcoin, Season 2** at [Bitshala](https://bitshala.org) — completed all 7 weeks: finite fields, cryptography and ECC, transaction serialization, Script and validation, P2SH and blocks, networking and SPV, bloom filters and SegWit.
-- **BOSS 2026 challenges** — signet wallets (balance and spend), coin selection, Bitcoin Core *test the test* (C++), and the Lightning track: scavenger hunt, route builder, and onion builder.
-- **Btrust Builders, Rust pathway** — weekly exercises and the [capstone project](https://github.com/Conradgabe/rust-capstone-project).
-- **Open source:** [BitDevsLagos/BitcoinWallet #8](https://github.com/BitDevsLagos/BitcoinWallet/pull/8) — merged wallet and key-management module: key/address generation, an encryption layer, persistence, and tests.
+- **Programming Bitcoin, Season 2** at [Bitshala](https://bitshala.org). Completed all 7 weeks: finite fields, cryptography and ECC, transaction serialization, Script and validation, P2SH and blocks, networking and SPV, bloom filters and SegWit.
+- **BOSS 2026 challenges**: signet wallets (balance and spend), coin selection, Bitcoin Core *test the test* (C++), and the Lightning track: scavenger hunt, route builder, and onion builder.
+- **Btrust Builders, Rust pathway**: weekly exercises and the [capstone project](https://github.com/Conradgabe/rust-capstone-project).
+- **Open source:** [BitDevsLagos/BitcoinWallet #8](https://github.com/BitDevsLagos/BitcoinWallet/pull/8), merged. Wallet and key-management module: key/address generation, an encryption layer, persistence, and tests.
 
 **Writing**
 - [Inside Bitcoin's Peer-to-Peer Network: How 71,000+ Nodes Keep the Blockchain Alive](https://medium.com/@conradgabe/inside-bitcoins-peer-to-peer-network-how-71-000-nodes-keep-the-blockchain-alive-735e366a5124)
@@ -33,7 +33,7 @@
 
 - 🔭 Backend and AI-integrated platforms in **Python** (FastAPI, Django) and **C#** (ASP.NET Core)
 - 🦀 Writing **Rust**, aimed at Bitcoin
-- 🧱 **Docker, Kubernetes, CI/CD** — Kubernetes & Cloud Native Associate (KCNA), CNCF
+- 🧱 **Docker, Kubernetes, CI/CD**: Kubernetes & Cloud Native Associate (KCNA), CNCF
 - 👯 Open to collaborating on **Bitcoin, Lightning, or backend** projects
 - 💬 Ask me about backends, Bitcoin protocol fundamentals, or LLM integration
 - 📫 Reach me at **gisuekebho5880@gmail.com**
